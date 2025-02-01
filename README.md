@@ -1,4 +1,4 @@
-# Sorteador de Amigos
+# Amigo Secreto
 
     Este projeto é uma aplicação simples em JavaScript que permite adicionar nomes de amigos a uma lista e, em seguida, sortear aleatoriamente um deles. É uma ótima oportunidade para praticar lógica de programação, manipulação do DOM e funções em JavaScript.
 
